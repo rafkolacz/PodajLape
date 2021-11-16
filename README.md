@@ -17,8 +17,5 @@ OnlineShop site created with Django.
 ## Getting Started
 Run 'python manage.py runserver'. Make sure u have PostgreSQL installed (or change DB driver).
 
-## Author
-* **Dominik Baran** - [MasterGTFX](https://github.com/MasterGTFX)
-
 ## License
 This project is free to use or modify.
